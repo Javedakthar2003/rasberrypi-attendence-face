@@ -111,5 +111,5 @@ An example of the attendance text file:</br>
 <img src="https://user-images.githubusercontent.com/46261099/52637598-a53e1b00-2f0a-11e9-98d3-9b733358a9b5.jpg"/>
 </br>
 ## Authors
-* Jackson - jackson1412able@gmail.com
+* Javed - javedakthar6661@gmail.com
 
